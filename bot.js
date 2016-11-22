@@ -31,7 +31,7 @@ function postMessage() {
 
   body = {
     "bot_id" : botID,
-    "text" : "http://daddyleagues.com/psfl/rules"
+    "text" : "https://docs.google.com/document/d/1BhQac8WznMjg7CQfhahS-cT-IyXxppMBPb_Wi-66izQ"
              
   };
 
